@@ -1,0 +1,9 @@
+venv/
+
+*.db
+
+*.geany
+
+logs/
+
+__pycache__
